@@ -1,6 +1,6 @@
 # Health Reminder
 
-![Health Reminder Icon](images/icon128.png)
+
 
 ## Introduction
 
@@ -45,14 +45,18 @@ Health Reminder is a browser extension designed to help users maintain healthy h
 
 ## Privacy Policy
 
-We take user privacy very seriously. Please review our [Privacy Policy](https://[your-website]/privacy.html) for details.
+We take user privacy very seriously. Please review our [Privacy Policy](https://crystalsweet-maker.github.io/health-reminder/privacy.html
+![image](https://github.com/user-attachments/assets/95172b64-14d4-4e1e-82f5-c29680ad110a)
+) for details.
 
 ## Feedback
 
 If you encounter any issues or have feature suggestions, please contact us through:
 
-- [Submit an Issue](https://github.com/yuanpocket/health-reminder/issues/new) on GitHub
-- Email us at [healthreminder@support.com](mailto:healthreminder@support.com)
+- [Submit an Issue]((https://github.com/crystalsweet-maker/health-reminder
+)![image](https://github.com/user-attachments/assets/20d11095-2752-470c-97f2-94a2c80248fc)
+) on GitHub
+- Email us at [healthreminder@outlook.com]
 
 ## License
 
@@ -111,14 +115,18 @@ This project is licensed under the [AGPL License](LICENSE)
 
 ## 隐私政策
 
-我们非常重视用户隐私。请查看我们的[隐私政策](https://[您的网站]/privacy.html)了解详情。
+我们非常重视用户隐私。请查看我们的[隐私政策]((https://crystalsweet-maker.github.io/health-reminder/privacy.html
+)![Uploading image.png…]()
+)了解详情。
 
 ## 问题反馈
 
 如果您在使用过程中遇到任何问题或有功能建议，请通过以下方式联系我们：
 
-- 在 GitHub 上[提交 Issue](https://github.com/yuanpocket/health-reminder/issues/new)
-- 发送邮件至 [healthreminder@support.com](mailto:healthreminder@support.com)
+- 在 GitHub 上[提交 Issue]([https://github.com/yuanpocket/health-reminder/issues/new](https://github.com/crystalsweet-maker/health-reminder
+)![Uploading image.png…]()
+)
+- 发送邮件至 [healthreminder@outlook.com]
 
 ## 许可证
 
