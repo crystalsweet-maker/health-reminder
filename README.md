@@ -28,7 +28,7 @@ Health Reminder is a browser extension designed to help users maintain healthy h
 
 ### Edge Browser
 
-1. Visit [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/[your-extension-ID])
+1. Visit [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/pefhcofjhockaddejjkcghincnkhickh)
 2. Click "Get" button
 
 ## Usage Guide
